@@ -6,7 +6,7 @@
  
  ---
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%wlsrn99&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/wlsrn99)
+<!-- [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%wlsrn99&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/wlsrn99)  --> 
 
 [![wlsrn99 GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsrn99&theme=nord&hide_border=true&count_private=true)](https://github.com/wlsrn99/github-readme-stats) [![wlsrn99 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backendINFJ&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/bakcendINFJ/github-readme-stats)
  
