@@ -10,9 +10,9 @@
 
 [![wlsrn99 GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsrn99&theme=nord&hide_border=true&count_private=true)](https://github.com/wlsrn99/github-readme-stats) [![wlsrn99 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backendINFJ&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/bakcendINFJ/github-readme-stats)
  
-<a href="https://github.com/wlsrn99">
+<!-- <a href="https://github.com/wlsrn99">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=wlsrn99&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=wlsrn99's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-  </a> 
+  </a> --> 
  
 <br>
 
@@ -40,10 +40,7 @@
     
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/java-%234ea94b?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <br>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo= &logoColor=white"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"><img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
 </div><br>
 </div>
