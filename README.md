@@ -17,7 +17,7 @@
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center"
+<div align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo= &logoColor=white">&nbsp
