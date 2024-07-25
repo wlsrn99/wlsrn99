@@ -36,6 +36,15 @@
 
 </div><br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/wlsrn99"
+  width="600"
+  height="300"
+/>
+</a>
+<br>
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@wlsrn99/posts">
