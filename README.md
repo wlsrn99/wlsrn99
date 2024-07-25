@@ -35,7 +35,7 @@
    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">&nbsp
 
 </div><br>
-
+<div align = "center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wlsrn99"
@@ -43,6 +43,7 @@
   height="300"
 />
 </a>
+</div>
 <br>
 
 ## 💻 DEV's log 💻
